@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Internet</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_connection_info">not connect to internet, please check network settings</string>
+    <string name="fail_to_get_data">Sorry...Couldn\'t get data, please refresh</string>
+    <string name="load_data">Loading...</string>
+    <string name="got_data">gotthedata</string>
+</resources>
